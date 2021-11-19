@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+# This website was made with React.Js , Express.Js , React-Bootstrap, MUI & MongoDb .
+## Project Name "LAMPS_LAND"
+This project is a responsive website.This project is [Programming Hero](https://web.programming-hero.com/) course related assignment task .
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Live Website Link [LAMPS_LAND](https://lamps-land.web.app/)
+#### Client Side Private Repo [LINK](https://github.com/programming-hero-web-course-4/niche-website-client-side-sakibrokoni)
 
-## Available Scripts
+### Available Resources
+Open the folder src. You can see App.js is the main function app .
+Then Open the folder name "components"
+### There are 38 Folders in the components file .
+This all are the important folders for this Project.
 
-In the project directory, you can run:
+### Heroku Live Server Link [LAMPS_LAND](https://rocky-sands-89317.herokuapp.com/) 
+This is used for container-based cloud Platform as a Service (PaaS). We use Heroku to deploy, manage, and scale modern apps. 
 
-### `npm start`
+### Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is a LAMP(light) selling project, here people can find different kinds of lamp/light. They can place order. If people wants to buy any kinds of lamp/light , they have to login or register first.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+What you can do in this site:
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- You can buy any kinds of lamp/light.
+- First you need to login or register.
+- If you don't logged in, you can't order.
+- There are two types of user : Customer and Admin, there features are different.
