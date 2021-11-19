@@ -25,4 +25,4 @@ What you can do in this site:
 - You can buy any kinds of lamp/light.
 - First you need to login or register.
 - If you don't logged in, you can't order.
-- There are two types of user : Customer and Admin, there features are different.
+- There are two types of user : Customer and Admin, both features are different.
