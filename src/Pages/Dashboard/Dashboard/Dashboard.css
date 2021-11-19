@@ -1,0 +1,12 @@
+.dashboard {
+  font-family: "Nothing You Could Do";
+  font-size: 2rem;
+  font-weight: 700;
+  color: aliceblue;
+}
+.user {
+  font-family: cursive;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: rgb(29, 28, 17);
+}
