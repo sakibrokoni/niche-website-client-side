@@ -6,10 +6,6 @@ This project is a responsive website.This project is [Programming Hero](https://
 ### Live Website Link [LAMPS_LAND](https://lamps-land.web.app/)
 ### Live Server Side Link [LAMPS_LAND](https://rocky-sands-89317.herokuapp.com/) 
 
-##### Client Side Private Repo [LINK](https://github.com/programming-hero-web-course-4/niche-website-client-side-sakibrokoni)
-##### Server Side Private Repo [LINK](https://github.com/programming-hero-web-course-4/niche-website-server-side-sakibrokoni)
-
-
 ### Available Resources
 Open the folder src. You can see App.js is the main function app .
 Then Open the folder name "components"
